@@ -176,6 +176,10 @@ body {
   padding-top: 3.5em;
 }
 
+.projects {
+  list-style: none;
+}
+
 body.is-preload *,
 body.is-preload *:before,
 body.is-preload *:after {
@@ -336,6 +340,7 @@ footer {
 footer > p {
   font-size: 1.25em;
 }
+
 
 /* Container */
 
